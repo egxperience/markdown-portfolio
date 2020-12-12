@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some **things** cannot be *edited* in 'int' but will be **checked** once ready to *deploy
